@@ -1,4 +1,4 @@
 # hola-mundo
 Repositorio para la materia SPD
 
-i love :dog: ,  :cat: 
+i love :dog: , :cat:, :horse:, :computer:
